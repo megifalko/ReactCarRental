@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Yaris",
+    "year": 2018,
+    "imageUrl": "https://www.freeiconspng.com/uploads/car-png-27.png",
+    "companies": "company1;company2",
+    "horsePower": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel."
+  },
+  {
+    "id": 2,
+    "brand": "Toyota",
+    "model": "Aygo",
+    "year": 2018,
+    "imageUrl": "https://img-optimize.toyota-europe.com/resize/ccis/680x680/zip/pl/product-token/8e183be2-5fa8-4b05-94a6-21fdeae169c6/vehicle/42f0b9c5-3f0a-486c-9ec3-ab72669ef3ed/image-quality/70/day-exterior-4_8y5.png",
+    "companies": "company1;company2",
+    "horsePower": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel."
+  },
+  {
+    "id": 3,
+    "brand": "Buick",
+    "model": "Skylark",
+    "year": 2018,
+    "imageUrl": "https://www.nicepng.com/png/detail/246-2462468_buick-skylark-1953-png.png",
+    "companies": "company1;company2",
+    "horsePower": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel."
+  },
+  {
+    "id": 4,
+    "brand": "Ford",
+    "model": "Galaxy",
+    "year": 2018,
+    "imageUrl": "https://nawigacje.eu/wp-content/uploads/2018/04/galaxy.png",
+    "companies": "company1;company2",
+    "horsePower": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel."
+  },
+  {
+    "id": 5,
+    "brand": "Pontiac",
+    "model": "Catalina",
+    "year": 2018,
+    "imageUrl": "https://static.wixstatic.com/media/f88402_304a251996654df1ab673ea640eb60f1~mv2.png/v1/fill/w_1183,h_786,al_c/f88402_304a251996654df1ab673ea640eb60f1~mv2.png",
+    "companies": "company1;company2",
+    "horsePower": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel."
+  },
+  {
+    "id": 6,
+    "brand": "Ford",
+    "model": "Transit",
+    "year": 2018,
+    "imageUrl": "https://www.kindpng.com/picc/m/434-4348363_2020-ford-transit-250-base-2020-ford-transit.png",
+    "companies": "company1;company2",
+    "horsePower": 500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate vel."
+  }
+]
+
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="6.434">
+  <testsuite name="src\App.test.tsx" errors="0" failures="0" skipped="0" timestamp="2022-01-18T12:16:08" time="4.766" tests="1">
+    <testcase classname="App component test-Mocked ECarList should be rendered in App" name="App component test-Mocked ECarList should be rendered in App" time="0.037">
+    </testcase>
+  </testsuite>
+</testsuites>
