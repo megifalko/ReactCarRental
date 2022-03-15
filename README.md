@@ -1,3 +1,12 @@
+# React car rental app
+
+This is an app which allows users to log in or register using Azure AD.\
+User can see the list of available cars, check their prices in different\
+companies and rent them. Admin can add cars and return vehicles.\
+Client can list all rented cars and view history, admin can list all\
+rentals from all of the users. App was originally hosted on Azure with\
+backend written in .NET hosted on Azure.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
